@@ -10,22 +10,25 @@
 body {
   color: #3E1929;
   /*background-color: #D7CEC7;*/
+  font-family: 'Open Sans', sans-serif;
 }
 
 .header {
   color: #76323F;
+  font-family: 'Open Sans', sans-serif;
+
 }
 
 #games {
   margin: 10% 5% 5% 5%;
   padding: 5%;
-  border: 5px solid #4C243B;
+  /*border: 5px solid #4C243B;*/
 }
 
 #platforms {
   margin: 5%;
   padding: 5%;
-  border: 5px solid #4C243B;
+  /*border: 5px solid #4C243B;*/
 }
 
 .intro {
