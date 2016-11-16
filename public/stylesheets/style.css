@@ -1,25 +1,30 @@
-/*#backgroundPic {
+.headerTop {
   background-image: url('/images/luffy.jpg');
+  height: 100vh;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-}*/
+  background-size: cover;
 
+}
 body {
   color: #3E1929;
   background-color: #B33951;
 }
 
 #games {
-  padding: 25px -20px 75px -20px;
+  margin: 5%;
+  padding: 5%;
   border: 5px solid #4C243B;
 }
 
 #platforms {
+  margin: 5%;
+  padding: 5%;
   border: 5px solid #4C243B;
 }
 
 #intro {
+  margin: 5%;
+  padding: 5%;
   border: 5px solid #4C243B;
 
 }
