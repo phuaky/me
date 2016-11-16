@@ -15,5 +15,8 @@
     "express-ejs-layouts": "^2.2.0",
     "path": "^0.12.7",
     "semantic-ui": "^2.2.6"
+  },
+  "engines": {
+  "node": "6.4.0"
   }
 }
