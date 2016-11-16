@@ -22,5 +22,4 @@ app.use('/', main);
 app.use('/games', games);
 app.use('/platforms', platforms);
 
-
-app.listen(3000);
+app.listen(process.env.PORT || 3000)
