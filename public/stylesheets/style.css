@@ -28,9 +28,23 @@ body {
   border: 5px solid #4C243B;
 }
 
-#intro {
+.intro {
   opacity: 1;
   color: black;
   padding: 20% 20% 20% 20%;
   text-align: center;
+}
+
+#contact {
+  padding: 5%;
+  margin: 5%;
+
+}
+
+h1 {
+  margin-bottom: 10%;
+}
+
+#title {
+  margin: 5%;
 }
