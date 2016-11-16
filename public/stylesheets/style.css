@@ -4,3 +4,22 @@
   background-attachment: fixed;
   background-position: center;
 }*/
+
+body {
+  color: #3E1929;
+  background-color: #B33951;
+}
+
+#games {
+  padding: 25px -20px 75px -20px;
+  border: 5px solid #4C243B;
+}
+
+#platforms {
+  border: 5px solid #4C243B;
+}
+
+#intro {
+  border: 5px solid #4C243B;
+
+}
