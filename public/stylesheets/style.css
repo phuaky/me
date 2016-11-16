@@ -1,5 +1,5 @@
 .headerTop {
-  background-image: url('/images/luffy.jpg');
+  background-image: url('/images/future-city.jpg');
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7,7 +7,7 @@
 }
 body {
   color: #3E1929;
-  background-color: #B33951;
+  background-color: #D7CEC7;
 }
 
 #games {
