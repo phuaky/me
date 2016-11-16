@@ -1,17 +1,23 @@
 .headerTop {
+  opacity: 0.5;
   background-image: url('/images/future-city.jpg');
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: -1;
 
 }
 body {
   color: #3E1929;
-  background-color: #D7CEC7;
+  /*background-color: #D7CEC7;*/
+}
+
+.header {
+  color: #76323F;
 }
 
 #games {
-  margin: 5%;
+  margin: 10% 5% 5% 5%;
   padding: 5%;
   border: 5px solid #4C243B;
 }
@@ -23,8 +29,8 @@ body {
 }
 
 #intro {
-  margin: 5%;
-  padding: 5%;
-  border: 5px solid #4C243B;
-
+  opacity: 1;
+  color: black;
+  padding: 20% 20% 20% 20%;
+  text-align: center;
 }
