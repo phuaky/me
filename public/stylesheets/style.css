@@ -51,3 +51,7 @@ h1 {
 #title {
   margin: 5%;
 }
+
+.ui.items>.item>.image>img {
+  height: 100%;
+}
